@@ -63,22 +63,3 @@ function validationImc(){
     )
 }
 
-const styles = StyleSheet.create({
-    container: {
-        padding: 5,
-        width: 200,
-      },
-      text: {
-        color: "#312f36",
-        fontSize: 16,
-      },
-      area: {
-        marginTop: 5,
-        padding: 8,
-        borderRadius: 8,
-        backgroundColor: "#A3E4DB"
-      },
-      button:{
-        borderRadius: 8,
-      }
-})
